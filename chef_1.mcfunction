@@ -1,0 +1,1 @@
+summon minecraft:villager ~ ~+1 ~ {Profession:1, Career:1, CareerLevel:5, CustomName: "Master Chef",Offers:{Recipes:[{buy:{id:emerald,Count:16},sell:{id:"lycanitesmobs:battle_burrito",Count:2,maxUses:9999999}},{buy:{id:emerald,Count:12},sell:{id:"lycanitesmobs:explorers_risotto",Count:2,maxUses:9999999}}]}}
