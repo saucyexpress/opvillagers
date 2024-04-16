@@ -11,6 +11,6 @@ If you don't want to spoil it, just grab the .rcst file and slap it into your RL
 It will have a chance to spawn the structure in any unexplored chunks. Hint: It spawns on the Overworld surface in temperate biomes only.
 
 To use the .mcfunction files:
-Create a new folder in RLCraft\saves\[WorldName]\data\functions
-Place the functions in the new folder.
-Invoke a given function using `/function folderName:fileName`
+- Create a new folder in RLCraft\saves\[WorldName]\data\functions
+- Place the functions in the new folder.
+- Invoke a given function using `/function folderName:fileName`
