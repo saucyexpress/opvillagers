@@ -5,7 +5,7 @@ The land's most skilled, elite villagers crave a different kind of trade. They'v
 The glowing ingot and the essence of beasts across the world drive their curiosity. They will give anything, even their most precious and sought after books, to further their knowledge of the world.
 
 To install:
-Copy the RLCraft_Mall.rcst to your RLCraft\structures\active directory.
+Copy the RLCraft_Mall.rcst file to your RLCraft\structures\active directory.
 
 If you don't want to spoil it, just grab the .rcst file and slap it into your RLCraft\structures\active folder. 
 It will have a chance to spawn the structure in any unexplored chunks. Hint: It spawns on the Overworld surface in temperate biomes only.
